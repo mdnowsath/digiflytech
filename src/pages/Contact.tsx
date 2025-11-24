@@ -99,7 +99,7 @@ const Contact = () => {
                       id="phone"
                       name="phone"
                       type="tel"
-                      placeholder="+91 XXXXX XXXXX"
+                      placeholder="+91 9148911743"
                       className="mt-2"
                     />
                   </div>

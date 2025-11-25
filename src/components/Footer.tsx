@@ -80,13 +80,13 @@ const Footer = () => {
                 LinkedIn
               </a>
               <a
-                href="https://wa.me/"
+                href="https://wa.me/919148911743"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors text-sm"
               >
                 <MessageCircle className="h-4 w-4" />
-                WhatsApp
+                +91 9148911743
               </a>
             </div>
           </div>

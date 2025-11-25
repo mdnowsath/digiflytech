@@ -165,12 +165,12 @@ const Contact = () => {
                         <div>
                           <h3 className="font-semibold mb-1">WhatsApp</h3>
                           <a
-                            href="https://wa.me/"
+                            href="https://wa.me/919148911743"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-muted-foreground hover:text-primary transition-colors"
                           >
-                            Chat with us on WhatsApp
+                            +91 9148911743
                           </a>
                         </div>
                       </div>
@@ -183,9 +183,12 @@ const Contact = () => {
                         </div>
                         <div>
                           <h3 className="font-semibold mb-1">Phone</h3>
-                          <p className="text-muted-foreground">
-                            Contact us for phone number
-                          </p>
+                          <a
+                            href="tel:+919148911743"
+                            className="text-muted-foreground hover:text-primary transition-colors"
+                          >
+                            +91 9148911743
+                          </a>
                         </div>
                       </div>
                     </Card>

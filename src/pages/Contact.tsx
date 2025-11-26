@@ -21,7 +21,7 @@ const Contact = () => {
     const formData = new FormData(form);
 
     try {
-      const response = await fetch("https://formspree.io/f/YOUR_FORMSPREE_ID", {
+      const response = await fetch("https://formspree.io/f/myzavrpp", {
         method: "POST",
         body: formData,
         headers: {
